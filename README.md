@@ -1,4 +1,7 @@
 ### Hi there 👋
+i am kapil, 
+I am studying fullstack developer course in Helsinki Buisness College.
+I have passion on coding .
 
 <!--
 **pandeykapil321/pandeykapil321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
